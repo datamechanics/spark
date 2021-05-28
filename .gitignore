@@ -110,3 +110,6 @@ spark-warehouse/
 
 # For Node.js
 node_modules
+
+.vscode
+.metals
